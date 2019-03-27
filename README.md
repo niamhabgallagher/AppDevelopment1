@@ -1,10 +1,10 @@
 # AppDevelopment1
-# Assignment one for App Development COMP228
-## SCREEN ONE
+## Assignment one for App Development COMP228
+### SCREEN ONE
 This is the opening screen when you first open the app.
 You can scroll down to look and choose which article you would like to choose.
 When you find one you would like to look at just tap it and it should bring you to the next screen.
-## SCREEN TWO
+### SCREEN TWO
 This is the next screen that will come up when you choose an article, it will display the title, 
 authors and an abstract if it available. There is a label with the authors email if it has been provided.
 There is also the switch which should save the document to your favourites, but mine doesn’t do anything just yet.
